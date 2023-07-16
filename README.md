@@ -1,2 +1,2 @@
-# Classical-Cryptography-2021
+# Classical Cryptography
 - Aim: Break the given ciphertext
